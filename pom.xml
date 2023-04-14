@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>PAYPAL</finalName>
+		<finalName>PAYPAL-Jason</finalName>
 		
 		<plugins>
 			<plugin>
