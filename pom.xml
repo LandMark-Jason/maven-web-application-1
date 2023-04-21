@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.140.243.100:8081/repository/Paypal-Releases/</url>
+	      <url>http://18.118.156.164:8081/repository/Paypal-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.140.243.100:8081/repository/paypal-SNAPSHOTS/</url>
+	      <url>http://18.118.156.164:8081/repository/paypal-SNAPSHOTS/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>PAYPAL-Jason</finalName>
+		<finalName>Jason</finalName>
 		
 		<plugins>
 			<plugin>
